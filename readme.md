@@ -5,7 +5,7 @@ an open-ended unicycle rating system for describing the difficulty of riding obs
 
 ## "Official" Repository for [www.krisholm.com/u-system](www.krisholm.com/u-system) ##
 
-This repository represents the source code of the "official" document located at [www.krisholm.com/u-system](www.krisholm.com/u-system).
+This repository represents the source of the "official" document located at [www.krisholm.com/u-system](www.krisholm.com/u-system).
 
 
 ## Built on [Bootstrap](http://twitter.github.com/bootstrap/index.html) ##
